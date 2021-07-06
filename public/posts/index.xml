@@ -3,7 +3,14 @@
         <title>All Posts - Seven&#39;s Blog</title>
         <link>https://sevenjiangyou.github.io/posts/</link>
         <description>All Posts | Seven&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 06 Jul 2021 17:23:00 &#43;0800</lastBuildDate><atom:link href="https://sevenjiangyou.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 06 Jul 2021 17:44:17 &#43;0800</lastBuildDate><atom:link href="https://sevenjiangyou.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Git使用</title>
+    <link>https://sevenjiangyou.github.io/posts/git%E4%BD%BF%E7%94%A8/</link>
+    <pubDate>Tue, 06 Jul 2021 17:44:17 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://sevenjiangyou.github.io/posts/git%E4%BD%BF%E7%94%A8/</guid>
+    <description><![CDATA[配置Git 首先在本地创建ssh key； $ ssh-keygen -t rsa -C &quot;your_email@youremail.com&quot; 后面的your_email@youremail.com改为你在github上注册的邮箱，之]]></description>
+</item><item>
     <title>如何度过研究生阶段</title>
     <link>https://sevenjiangyou.github.io/posts/%E5%A6%82%E4%BD%95%E5%BA%A6%E8%BF%87%E7%A0%94%E7%A9%B6%E7%94%9F%E9%98%B6%E6%AE%B5/</link>
     <pubDate>Tue, 06 Jul 2021 17:23:00 &#43;0800</pubDate>
