@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - Seven&#39;s Blog</title>
-        <link>http://example.org/posts/</link>
+        <link>https://sevenjiangyou.github.io/jiangyou.github.io/posts/</link>
         <description>All Posts | Seven&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 04 Jul 2021 21:04:32 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 04 Jul 2021 21:04:32 &#43;0800</lastBuildDate><atom:link href="https://sevenjiangyou.github.io/jiangyou.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>使用Hugo创建个人博客</title>
-    <link>http://example.org/posts/howtocreateblog/</link>
+    <link>https://sevenjiangyou.github.io/jiangyou.github.io/posts/howtocreateblog/</link>
     <pubDate>Sun, 04 Jul 2021 21:04:32 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://example.org/posts/howtocreateblog/</guid>
+    <guid>https://sevenjiangyou.github.io/jiangyou.github.io/posts/howtocreateblog/</guid>
     <description><![CDATA[Hugo的安装 不同版本下载地址: https://github.com/gohugoio/hugo/releases 1.解压后的目录即是安装目录，根据需求设定解压位置。 2.建议将安装目录添加到系统环境变量中以方便日后调用。]]></description>
 </item></channel>
 </rss>
